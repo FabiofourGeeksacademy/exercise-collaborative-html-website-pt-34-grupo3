@@ -1,3 +1,18 @@
 body{
     background: #BDBDBD;
 }
+.contenedor{
+    height:
+    position:relative;
+    display:inline-block;
+    
+}
+    
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+    
