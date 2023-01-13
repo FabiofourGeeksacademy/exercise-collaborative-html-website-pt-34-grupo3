@@ -13,3 +13,20 @@ body{
     font-weight: 500;
     background-color: white;
 }
+
+.principal {
+    padding: 30px 200px;
+}
+
+
+.Prueba{
+    color:gray;
+    padding: 0;
+}
+
+img {
+    
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
