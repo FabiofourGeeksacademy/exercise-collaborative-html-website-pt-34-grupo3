@@ -1,18 +1,15 @@
 body{
     background: #BDBDBD;
 }
-.contenedor{
-    height:
-    position:relative;
-    display:inline-block;
-    
+.t1 {
+    font-size: 130px;
+    font-weight: 500;
+    background-color: white;
+    align-content: center;
+    margin-top: 70px;
 }
-    
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.t2 {
+    font-size: 80px;
+    font-weight: 500;
+    background-color: white;
 }
-  
-    
