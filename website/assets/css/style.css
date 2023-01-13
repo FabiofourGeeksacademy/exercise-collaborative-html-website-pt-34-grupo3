@@ -1,3 +1,15 @@
 body{
-    background: white;
+    background: #BDBDBD;
+}
+.t1 {
+    font-size: 130px;
+    font-weight: 500;
+    background-color: white;
+    align-content: center;
+    margin-top: 70pxgit;
+}
+.t2 {
+    font-size: 80px;
+    font-weight: 500;
+    background-color: white;
 }
